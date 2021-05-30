@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer who loves to code and make web apps .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiltany&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiltany" /> </p>
+
 [![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhiltany&show_icons=true&theme=radical)]()
+
 
 - 🔭 I’m currently working on **A Texting app , And some fresh ideas**
 

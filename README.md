@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiltany&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiltany" /> </p>
 
-[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhiltany&show_icons=true&theme=radical)]()
+<!-- [![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhiltany&show_icons=true&theme=radical)]() -->
+![](https://github-readme-stats.vercel.app/api?username=nikhiltany&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 
 - 🔭 I’m currently working on **A Texting app , And some fresh ideas**

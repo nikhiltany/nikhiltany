@@ -7,11 +7,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=nikhiltany&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 
-- 🔭 I’m currently working on **A Texting app , And some fresh ideas**
+- 🔭 I’m currently working on **Some fresh new projects ideas**
 
-- 🌱 I’m currently learning **React, Git**
+- 🌱 I’m currently learning **React-native,Git, Algorithms**
 
-- 👯 I’m looking to collaborate on **on React projects**
+- 👯 I’m looking to collaborate on **on some exciting projects**
 
 - 📝 I check my articles on [https://hashnode.com/](https://hashnode.com/)
 
